@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Demo from './Demo';
 
 function App() {
   return (
     <div className="App">
-      <h1> Sangola College Sangola</h1>
-      <h2>Department of  computer science </h2>
+    <Demo></Demo>
     </div>
   );
 }
